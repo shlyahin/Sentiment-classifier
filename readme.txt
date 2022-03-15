@@ -1,30 +1,24 @@
-Ó÷åáíûé ïðîåêò â ðàìêàõ ñïåöèàëèçàöèè "Ìàøèííîå îáó÷åíèå è àíàëèç äàííûõ" (Coursera - ÌÔÒÈ, ßíäåêñ)
+Ð£Ñ‡ÐµÐ±Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¾ÐµÐºÑ‚ Ð² Ñ€Ð°Ð¼ÐºÐ°Ñ… ÑÐ¿ÐµÑ†Ð¸Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ "ÐœÐ°ÑˆÐ¸Ð½Ð½Ð¾Ðµ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ðµ Ð¸ Ð°Ð½Ð°Ð»Ð¸Ð· Ð´Ð°Ð½Ð½Ñ‹Ñ…" (Coursera - ÐœÐ¤Ð¢Ð˜, Ð¯Ð½Ð´ÐµÐºÑ)
 
-Ïðîåêò íàöåëåí íà êëàññèôèêàöèþ îòçûâîâ íà íåãàòèâíûå/ïîçèòèâíûå. Ðåàëèçîâàíà äåìî-ìîäåëü ñ âýá-èíòåðôåéñîì.
+ÐŸÑ€Ð¾ÐµÐºÑ‚ Ð½Ð°Ñ†ÐµÐ»ÐµÐ½ Ð½Ð° ÐºÐ»Ð°ÑÑÐ¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸ÑŽ Ñ€ÑƒÑÐºÐ¾ÑÐ·Ñ‹Ñ‡Ð½Ñ‹Ñ… Ð¾Ñ‚Ð·Ñ‹Ð²Ð¾Ð² Ð½Ð° Ð½ÐµÐ³Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ðµ/Ð¿Ð¾Ð·Ð¸Ñ‚Ð¸Ð²Ð½Ñ‹Ðµ. Ð ÐµÐ°Ð»Ð¸Ð·Ð¾Ð²Ð°Ð½Ð° Ð´ÐµÐ¼Ð¾-Ð¼Ð¾Ð´ÐµÐ»ÑŒ Ñ Ð²ÑÐ±-Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ¾Ð¼.
 
-Äëÿ äåìîíñòðàöèè ðàáîòû ìîäåëè:
-1.Ðàñïàêóéòå demo2.zip, æåëàòåëüíî â êîðåíü äèñêà (íàïðèìåð, íà D:\).
-2.Îòêðîéòå êîíñîëü/êîìàíäíóþ ñòðîêó (â Windows - cmd.exe).
-3.Â êîíñîëè ïåðåéäèòå â ðàñïàêîâàííóþ ïàïêó (íàïðèìåð, D:\demo2\).
-4.Çàïóñòèòå ôàéë demo.py ÷åðåç python.exe (íàïðèìåð, D:\demo2\>C:\ProgramData\Anaconda2\python.exe demo.py).
-5.Â àäðåñíóþ ñòðîêó áðàóçåðà âíåñèòå http://localhost/sentiment-demo.
-6.Òåñòèðóéòå.
+Ð”Ð»Ñ Ð´ÐµÐ¼Ð¾Ð½ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ð¼Ð¾Ð´ÐµÐ»Ð¸:
+1.Ð Ð°ÑÐ¿Ð°ÐºÑƒÐ¹Ñ‚Ðµ demo2.zip, Ð¶ÐµÐ»Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ð² ÐºÐ¾Ñ€ÐµÐ½ÑŒ Ð´Ð¸ÑÐºÐ° (Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€, Ð½Ð° D:\).
+2.ÐžÑ‚ÐºÑ€Ð¾Ð¹Ñ‚Ðµ ÐºÐ¾Ð½ÑÐ¾Ð»ÑŒ/ÐºÐ¾Ð¼Ð°Ð½Ð´Ð½ÑƒÑŽ ÑÑ‚Ñ€Ð¾ÐºÑƒ (Ð² Windows - cmd.exe).
+3.Ð’ ÐºÐ¾Ð½ÑÐ¾Ð»Ð¸ Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð² Ñ€Ð°ÑÐ¿Ð°ÐºÐ¾Ð²Ð°Ð½Ð½ÑƒÑŽ Ð¿Ð°Ð¿ÐºÑƒ (Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€, D:\demo2\).
+4.Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ðµ Ñ„Ð°Ð¹Ð» demo.py Ñ‡ÐµÑ€ÐµÐ· python.exe (Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€, D:\demo2\>C:\ProgramData\Anaconda2\python.exe demo.py).
+5.Ð’ Ð°Ð´Ñ€ÐµÑÐ½ÑƒÑŽ ÑÑ‚Ñ€Ð¾ÐºÑƒ Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð° Ð²Ð½ÐµÑÐ¸Ñ‚Ðµ http://localhost/sentiment-demo.
+6.Ð¢ÐµÑÑ‚Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ.
 
 Educational project within the framework of the specialization "Machine learning and data analysis" (Coursera - MIPT, Yandex)
 
-
-
-The project is aimed at classifying reviews into negative/positive. A demo model with a web interface has been implemented.
+The project is aimed at classifying Russian-language reviews into negative/positive. A demo model with a web interface has been implemented.
 
 To demonstrate how the model works:
 
 1.Unpack demo2.zip, preferably to the root of the disk (for example, to D:\).
-
 2.Open a console/command prompt (on Windows, cmd.exe).
-
 3.In the console, navigate to the unpacked folder (for example, D:\demo2\).
-
 4.Run the demo.py file via python.exe (e.g. D:\demo2\>C:\ProgramData\Anaconda2\python.exe demo.py).
-
 5. Enter http://localhost/sentiment-demo into the address bar of your browser.
 6. Test.
